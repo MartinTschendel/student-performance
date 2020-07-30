@@ -4,5 +4,8 @@ This data approach student achievement in secondary education of two Portuguese 
 <b>Source:</b> P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.<br>
 <b>Web-Link:</b> http://archive.ics.uci.edu/ml/datasets/Student+Performance
 
+The dataset contains a high ratio of categorical variables/features. Overview on different datatypes:<br>
+https://www.dummies.com/education/math/statistics/types-of-statistical-data-numerical-categorical-and-ordinal/
+
 * 2020-07-29: started to select the first numerical and categorical features to training set and completed one-hot encoding accordingly
 * to do: include more features to training set and transform training set to matrix array (with 'values' method)

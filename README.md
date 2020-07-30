@@ -8,4 +8,6 @@ The dataset contains a high ratio of categorical variables/features. Overview on
 https://www.dummies.com/education/math/statistics/types-of-statistical-data-numerical-categorical-and-ordinal/
 
 * 2020-07-29: started to select the first numerical and categorical features to training set and completed one-hot encoding accordingly
-* to do: include more features to training set and transform training set to matrix array (with 'values' method)
+* 2020-07-30：included more feature variable, that led to a very high rmse
+* 2020-07-30: after regularization, the rmse decreased to 2,86 (based on training set)
+* to do: add more features and check the performance of the model on the validation set

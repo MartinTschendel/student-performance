@@ -10,4 +10,6 @@ https://www.dummies.com/education/math/statistics/types-of-statistical-data-nume
 * 2020-07-29: started to select the first numerical and categorical features to training set and completed one-hot encoding accordingly
 * 2020-07-30：included more feature variable, that led to a very high rmse
 * 2020-07-30: after regularization, the rmse decreased to 2,86 (based on training set)
-* to do: add more features and check the performance of the model on the validation set
+* 2020-07-31: added all features and checked the performance of the model on the validation set
+* 2020-07-31: also checked the performance of the model on the test set
+* 2020-07-31: the rmse on the test set is 1.189 and the rmse on the validation set is 0.807 

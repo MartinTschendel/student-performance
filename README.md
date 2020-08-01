@@ -14,3 +14,4 @@ https://www.dummies.com/education/math/statistics/types-of-statistical-data-nume
 * 2020-07-31: added all features and checked the performance of the model on the validation set
 * 2020-07-31: also checked the performance of the model on the test set
 * 2020-07-31: the rmse on the test set is 1.189 and the rmse on the validation set is 0.807 
+* 2020-08-01: the notebook also contains the function to adjust the value of specific features and see how the final performance of the student would change
